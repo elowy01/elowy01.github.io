@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ernesto Lowy Portfolio_test"
+title                    : "Ernesto Lowy Portfolio"
 title_separator          : "-"
 name                     : "Ernesto Lowy"
 description              : "Ernesto Lowy Portfolio"
